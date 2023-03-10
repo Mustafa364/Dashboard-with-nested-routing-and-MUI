@@ -1,0 +1,33 @@
+/* .App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+} */
+
+.card{
+  padding: 1em;
+  border: 3px solid #888;
+}
+.read-the-docs{
+  color: #888;
+}
+.grid{
+  padding: 3em;
+  max-width: 70rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.2rem;
+}
+.imgg{
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.ttt{
+  
+  text-align: center;
+}
+body{
+  background-color: #282c34;
+  color: white;
+}
